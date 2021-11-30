@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Davideazzolini
-- 🌱 I’m currently studying at Uinge in the field of Computer Engeneering
+- 🌱 I’m currently studying at Uinge in the field of Computer Engineering
 
 <!---
 Davideazzolini/Davideazzolini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
